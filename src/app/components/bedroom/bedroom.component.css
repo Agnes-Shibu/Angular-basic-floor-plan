@@ -1,0 +1,17 @@
+.bedroomclass{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: rgb(55, 241, 241);
+    border: 2px solid rgb(58, 149, 165);
+}
+
+.mybed{
+    height: 90px;
+    width: 75px;
+    position:absolute; 
+    right:0;
+    bottom: 0; 
+}
